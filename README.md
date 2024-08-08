@@ -15,7 +15,7 @@ Soy Edgar, un Estudiante de Ingeniería Informatica de Argentina.
 
 ## Habilidades
 - 👨‍💻 C, C++, HTML, CSS, PHP, C#, Python, etc...
-- ⚙️ QT, Visual Studio, Visual Studio Code
+- ⚙️ QT, Visual Studio, Visual Studio Code, PyCharm
 - 💽 MySQL, SQL, Mongo
 
 ## Contacto
