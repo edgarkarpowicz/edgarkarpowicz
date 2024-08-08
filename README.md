@@ -21,3 +21,4 @@ Soy Edgar, un Estudiante de Ingeniería Informatica de Argentina.
 ## Contacto
 - [EMAIL] edgarkarpowicz@live.com
 - [EMAIL-2] edgarkarpowicz@gmail.com
+- [Mi Manager] +54-9-3735-63-3727
