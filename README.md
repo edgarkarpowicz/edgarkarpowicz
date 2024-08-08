@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Edgar Karpowicz" />
+  <img src="https://github.com/edgarkarpowicz/edgarkarpowicz/blob/b1aded9714a9905d1d54a02123160f5e86450227/coollogo_com-313791835.gif" alt="Edgar Karpowicz" />
 </h1>
 
 ## Hola! 👋
