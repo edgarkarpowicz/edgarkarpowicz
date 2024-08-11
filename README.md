@@ -9,7 +9,7 @@ Soy Edgar, un Estudiante de Ingeniería Informatica de Argentina.
 
 - 🦔 Muchos Proyectos y Repositorios dedicados a la Ingeniería de Software!
 
-- 👥 Advanced English Degree (Took part of an Exchange Program!) & Native Spanish Speaker. Would like to learn Russian!
+- 👥 Advanced English Degree (Took part of an Exchange Program!) & Native Spanish Speaker. Would like to learn Russian & German!
 
 + y otras cosas más!
 
