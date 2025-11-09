@@ -2,6 +2,10 @@
   <img src="https://github.com/edgarkarpowicz/edgarkarpowicz/blob/33d96929a368053da85caa4a7349f4740897c66e/github-header-banner.png" alt="Edgar Karpowicz" />
 </h1>
 
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/gifs/handshake.gif?raw=true" width="60"/>
+</div>
+
 ## 👋 Hi there!
 I’m **Edgar Karpowicz**, a **Software Engineering Student** from Argentina, currently working as a **Full-Stack Developer**.  
 I’m passionate about creating complete solutions across **mobile, desktop, and back-end systems**, and always eager to **learn, collaborate, and grow**. 🚀
@@ -13,6 +17,9 @@ I also have **hands-on experience with Cloud Computing platforms** such as **AWS
 ---
 
 ## 🧠 Tech Stack & Tools
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/gifs/tools.gif?raw=true" width="60"/>
+</div>
 
 ### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
@@ -56,12 +63,19 @@ I also have **hands-on experience with Cloud Computing platforms** such as **AWS
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/gifs/stats.gif?raw=true" width="60"/>
+</div>
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edgarkarpowicz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarkarpowicz&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🤝 Let’s Connect
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/gifs/handshake-light.gif?raw=true" width="70"/>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-karpowicz-045372330/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:edgarkarpowicz@gmail.com)  
