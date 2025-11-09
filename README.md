@@ -7,6 +7,7 @@ I’m **Edgar Karpowicz**, a **Software Engineering Student** from Argentina, cu
 I’m passionate about creating complete solutions across **mobile, desktop, and back-end systems**, and always eager to **learn, collaborate, and grow**. 🚀
 
 My GitHub showcases a diverse range of **projects and academic work**, including both **self-made** and **university-based** repositories — spanning **Haskell, CLIPS, Prolog, C++, C#, Python**, and modern **full-stack web and mobile applications**.  
+
 I also have **hands-on experience with Cloud Computing platforms** such as **AWS**, **Microsoft Azure**, and **Google Cloud Platform (GCP)** — focusing on scalable, high-performance deployments and DevOps practices.
 
 ---
