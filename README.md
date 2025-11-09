@@ -56,8 +56,8 @@ I also have **hands-on experience with Cloud Computing platforms** such as **AWS
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edgarkarpowicz&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarkarpowicz&layout=compact&langs_count=8&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edgarkarpowicz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarkarpowicz&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
