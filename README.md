@@ -3,11 +3,11 @@
 </h1>
 
 ## 👋 Hi there!
-I’m **Edgar Karpowicz**, a **Software Engineering Student** from Argentina, currently working as a **Full-Stack Developer at [Kiuvi Software Quality](https://www.kiuvi.com/)**.  
-I’m passionate about building complete solutions across **mobile, desktop, and back-end systems**, and always eager to **learn, collaborate, and grow**. 🚀
+I’m **Edgar Karpowicz**, a **Software Engineering Student** from Argentina, currently working as a **Full-Stack Developer**.  
+I’m passionate about creating complete solutions across **mobile, desktop, and back-end systems**, and always eager to **learn, collaborate, and grow**. 🚀
 
-My GitHub repositories include a wide variety of **personal and academic projects**, ranging from **Haskell, CLIPS, and Prolog** to **Python, C++, C#, and full-stack web and mobile apps**.  
-Each project reflects my journey through software engineering — from university challenges to real-world development experiences.
+My GitHub showcases a diverse range of **projects and academic work**, including both **self-made** and **university-based** repositories — spanning **Haskell, CLIPS, Prolog, C++, C#, Python**, and modern **full-stack web and mobile applications**.  
+I also have **hands-on experience with Cloud Computing platforms** such as **AWS**, **Microsoft Azure**, and **Google Cloud Platform (GCP)** — focusing on scalable, high-performance deployments and DevOps practices.
 
 ---
 
