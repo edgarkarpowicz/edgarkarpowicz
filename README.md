@@ -3,7 +3,7 @@
 </h1>
 
 ## 👋 Hi there!
-I’m **Edgar Karpowicz**, a **Software Engineering Student** from Argentina, currently working as a **Full-Stack Developer**.  
+I’m **Edgar Karpowicz**, a **Software Engineer** from Argentina, currently working as a **Full-Stack Developer**.  
 I’m passionate about creating complete solutions across **mobile, desktop, and back-end systems**, and always eager to **learn, collaborate, and grow**. 🚀
 
 My GitHub showcases a diverse range of **projects and academic work**, including both **self-made** and **university-based** repositories — spanning **Haskell, CLIPS, Prolog, C++, C#, Python**, and modern **full-stack web and mobile applications**.  
